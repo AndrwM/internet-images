@@ -31,13 +31,14 @@ body {
 
 header {
   color: var(--color-500);
-  height: 18vh;
-  margin-bottom: 2vh;
+  height: 15vh;
+  margin-bottom: 1vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 160px;
+  min-height: 120px;
+  line-height: 1.5;
 
   h1 {
     font-size: 66px;
