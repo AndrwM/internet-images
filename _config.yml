@@ -1,4 +1,3 @@
 title: "International Images" # the name of your site, e.g. ACME Corp.
 domain: internet-images.com      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: http://internet-images.com   # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: ""
+url: https://internet-images.com   # the base hostname and protocol for your site, e.g. http://example.com
